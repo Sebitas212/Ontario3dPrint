@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ontario3Dprint - Premium 3D Printing \u0026 Custom Engineering",
+  "description": "High-precision 3D printed products, functional accessories, and bespoke additive manufacturing, engineered in Ontario, Canada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
